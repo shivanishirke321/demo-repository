@@ -4,6 +4,6 @@ public class Demo {
 public void send() {
 	System.out.println("Trying to push");
 	
-	System.out.println("chnages made by pandurang");
+	System.out.println("changes made by pandurang and shivani");
 }
 }
