@@ -8,6 +8,8 @@ public class Demo {
 		System.out.println("changes made by conflict line by vivek new line");
 		System.out.println("changes made by pandurang");
 		System.out.println("changes for git stash");
-		
+		System.out.println("changes made by vivek");
+		System.out.println("changes made by vivek");
+
 	}
 }
