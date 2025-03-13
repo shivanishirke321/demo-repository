@@ -7,7 +7,7 @@ public void send() {
 	System.out.println("changes made by pandurang and shivani");
 	System.out.println("changes made by pandurang");
 	
-<<<<<<< HEAD
+<<<<<<< HEAD0
 	
 	
 =======
