@@ -5,7 +5,7 @@ public class Demo {
 		System.out.println("Trying to push");
 
 		System.out.println("changes made by pandurang and shivani");
-		System.out.println("changes made by pandurang");
+		
 		
 	}
 }
